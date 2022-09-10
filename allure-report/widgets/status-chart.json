@@ -1,0 +1,41 @@
+[ {
+  "uid" : "274074a7f405ca86",
+  "name" : "doLoginWithValidEmailandWrongPassword",
+  "time" : {
+    "start" : 1662781768927,
+    "stop" : 1662781780232,
+    "duration" : 11305
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c64146ab95dd98e5",
+  "name" : "userLogin",
+  "time" : {
+    "start" : 1662781744611,
+    "stop" : 1662781768914,
+    "duration" : 24303
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46c28b283c182fa2",
+  "name" : "searchProduct",
+  "time" : {
+    "start" : 1662781785680,
+    "stop" : 1662781801734,
+    "duration" : 16054
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9333a3936f4894a",
+  "name" : "doLoginWithInvalidEmail",
+  "time" : {
+    "start" : 1662781780238,
+    "stop" : 1662781784210,
+    "duration" : 3972
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,116 @@
+{
+  "uid" : "c64146ab95dd98e5",
+  "name" : "userLogin",
+  "fullName" : "TestRunner.LoginTestRunner.userLogin",
+  "historyId" : "d3dee3302af15611566573be0be19af3",
+  "time" : {
+    "start" : 1662781744611,
+    "stop" : 1662781768914,
+    "duration" : 24303
+  },
+  "description" : "User can login successfully",
+  "descriptionHtml" : "<p>User can login successfully</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1662781743295,
+      "stop" : 1662781744544,
+      "duration" : 1249
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "takeScreenshot",
+    "time" : {
+      "start" : 1662781768922,
+      "stop" : 1662781768922,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "closeDriver",
+    "time" : {
+      "start" : 1662781784214,
+      "stop" : 1662781784273,
+      "duration" : 59
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner.LoginTestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner.LoginTestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "userLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "E-commerce portal automation"
+  }, {
+    "name" : "suite",
+    "value" : "E-commerce portal Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner.LoginTestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-OIJ72PC"
+  }, {
+    "name" : "thread",
+    "value" : "2196@DESKTOP-OIJ72PC.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c64146ab95dd98e5.json",
+  "parameterValues" : [ ]
+}

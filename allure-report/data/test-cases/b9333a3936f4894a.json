@@ -1,0 +1,116 @@
+{
+  "uid" : "b9333a3936f4894a",
+  "name" : "doLoginWithInvalidEmail",
+  "fullName" : "TestRunner.LoginTestRunner.doLoginWithInvalidEmail",
+  "historyId" : "4d140fd911c7a498a0f11f06b2d3ddfd",
+  "time" : {
+    "start" : 1662781780238,
+    "stop" : 1662781784210,
+    "duration" : 3972
+  },
+  "description" : "User can not login with invalid email",
+  "descriptionHtml" : "<p>User can not login with invalid email</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1662781743295,
+      "stop" : 1662781744544,
+      "duration" : 1249
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "takeScreenshot",
+    "time" : {
+      "start" : 1662781784212,
+      "stop" : 1662781784212,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "closeDriver",
+    "time" : {
+      "start" : 1662781784214,
+      "stop" : 1662781784273,
+      "duration" : 59
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner.LoginTestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner.LoginTestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "doLoginWithInvalidEmail"
+  }, {
+    "name" : "parentSuite",
+    "value" : "E-commerce portal automation"
+  }, {
+    "name" : "suite",
+    "value" : "E-commerce portal Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner.LoginTestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-OIJ72PC"
+  }, {
+    "name" : "thread",
+    "value" : "2196@DESKTOP-OIJ72PC.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9333a3936f4894a.json",
+  "parameterValues" : [ ]
+}

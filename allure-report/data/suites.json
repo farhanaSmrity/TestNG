@@ -1,0 +1,93 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "E-commerce portal automation",
+    "children" : [ {
+      "name" : "E-commerce portal Login",
+      "children" : [ {
+        "name" : "TestRunner.LoginTestRunner",
+        "children" : [ {
+          "name" : "userLogin",
+          "uid" : "c64146ab95dd98e5",
+          "parentUid" : "81d3ea4b7d20580e3eba2c42397e9cee",
+          "status" : "passed",
+          "time" : {
+            "start" : 1662781744611,
+            "stop" : 1662781768914,
+            "duration" : 24303
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "doLoginWithValidEmailandWrongPassword",
+          "uid" : "274074a7f405ca86",
+          "parentUid" : "81d3ea4b7d20580e3eba2c42397e9cee",
+          "status" : "passed",
+          "time" : {
+            "start" : 1662781768927,
+            "stop" : 1662781780232,
+            "duration" : 11305
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "doLoginWithInvalidEmail",
+          "uid" : "b9333a3936f4894a",
+          "parentUid" : "81d3ea4b7d20580e3eba2c42397e9cee",
+          "status" : "passed",
+          "time" : {
+            "start" : 1662781780238,
+            "stop" : 1662781784210,
+            "duration" : 3972
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "81d3ea4b7d20580e3eba2c42397e9cee"
+      } ],
+      "uid" : "20ba860faa8852c716f0ac43f8a32cb7"
+    }, {
+      "name" : "E-commerce portal purchase product",
+      "children" : [ {
+        "name" : "TestRunner.ProductPurchaseTestRunner",
+        "children" : [ {
+          "name" : "searchProduct",
+          "uid" : "46c28b283c182fa2",
+          "parentUid" : "502506bc12d00029c04134a86743900c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1662781785680,
+            "stop" : 1662781801734,
+            "duration" : 16054
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "502506bc12d00029c04134a86743900c"
+      } ],
+      "uid" : "5ccef0bb723235075fa8e3b0ee70a29d"
+    } ],
+    "uid" : "61ecb9fc8236d0baf1d087ff409597e0"
+  } ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRunner.ProductPurchaseTestRunner" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-10T03:49:45" hostname="DESKTOP-OIJ72PC" time="16.055">
+  <properties/>
+  <testcase name="searchProduct" classname="TestRunner.ProductPurchaseTestRunner" time="16.055"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

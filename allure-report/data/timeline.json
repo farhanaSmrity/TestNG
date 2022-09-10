@@ -1,0 +1,81 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-OIJ72PC",
+    "children" : [ {
+      "name" : "2196@DESKTOP-OIJ72PC.Test worker(1)",
+      "children" : [ {
+        "name" : "searchProduct",
+        "uid" : "46c28b283c182fa2",
+        "parentUid" : "60807ccbc15fbf83220d13364bd9b796",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662781785680,
+          "stop" : 1662781801734,
+          "duration" : 16054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "doLoginWithValidEmailandWrongPassword",
+        "uid" : "274074a7f405ca86",
+        "parentUid" : "60807ccbc15fbf83220d13364bd9b796",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662781768927,
+          "stop" : 1662781780232,
+          "duration" : 11305
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "doLoginWithInvalidEmail",
+        "uid" : "b9333a3936f4894a",
+        "parentUid" : "60807ccbc15fbf83220d13364bd9b796",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662781780238,
+          "stop" : 1662781784210,
+          "duration" : 3972
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "userLogin",
+        "uid" : "c64146ab95dd98e5",
+        "parentUid" : "60807ccbc15fbf83220d13364bd9b796",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662781744611,
+          "stop" : 1662781768914,
+          "duration" : 24303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "60807ccbc15fbf83220d13364bd9b796"
+    } ],
+    "uid" : "10de833d7d5573ef9eb5b2d8c21ef74c"
+  } ]
+}
