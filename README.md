@@ -27,5 +27,4 @@ An E-Commerce site is automated by using __Selenium TestNG framework with POM st
 6. Can run test cases individually by using __Test Runner (created) or all by using Test Suite (created)__.
 7. Used __priority & groups__ as per how I  want to run test cases.
 8. Used __allure__ to generate reports after test.
-9.[![Report]
-(https://user-images.githubusercontent.com/48954330/189478636-344be8fe-8adf-4073-8439-3a3f19215bad.png)
+9.[![Report](https://user-images.githubusercontent.com/48954330/189478636-344be8fe-8adf-4073-8439-3a3f19215bad.png)
