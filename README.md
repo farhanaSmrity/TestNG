@@ -7,7 +7,7 @@ Prerequisite :
 
 Command on terminal:
 For run -
- gradle clean test
+gradle clean test
 For generate report -
 1. allure generate allure-results --clean -o allure-report
 2. allure serve allure-results 
